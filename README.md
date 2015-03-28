@@ -1,1 +1,1 @@
-# 1st-MSc-year-Protocols
+# 1st MSc year - Security Protocols: Modelling and Verification 
